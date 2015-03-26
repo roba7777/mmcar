@@ -1,0 +1,36 @@
+/*!
+ * Bootstrap v3.3.1 (http://getbootstrap.com)
+ * Copyright 2011-2014 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)*/
+.navbar-default {
+background: none;
+border: none;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
+	background:none; color:#45812b;text-transform:uppercase; font-size:14px;font-weight:bold;}
+.navbar-default .navbar-nav>li>a {
+color: #719e23;
+margin-right: 15px;
+padding-bottom: 10px;
+padding-top: 10px;
+text-transform: uppercase;
+font-weight: bold;
+}
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+background: none;
+color: #45812b;
+text-transform: uppercase;
+font-weight: bold;
+}
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+border-radius: 10px;
+}
+address{margin-bottom:0;}
+.main-header .navbar{margin-bottom:10px;}
+.main-header .navbar ul.nav{margin-top:15px;}
+.carousel-caption{text-align:left;}
+.carousel-caption {
+right: 2%;
+left: 2%;
+padding-bottom: 108px;
+}
