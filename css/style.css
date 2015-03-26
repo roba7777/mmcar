@@ -6,6 +6,7 @@ body{font-size:13px;
 .title-phone{color:#b0b0b1; font-size:14px;font-weight:bold; text-transform:uppercase;}
 .main-header{background:#b0d74a;}
 .text-contact{margin-top:35px;}
+.width-full {width:100%;}
 .number-phone{color:#b0b0b1; font-weight:bold; font-size:14px;}
 .carousel-inner>.item {height:460px;}
 .carousel-control.left, .carousel-control.right {border-radius:10px;}

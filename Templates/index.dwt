@@ -29,7 +29,7 @@
         <div class="container">
         <div class="row top-header">
             <div class=" row col-md-6 pull-left"><a class="navbar-brand" href="#"><img src="../img/logo-horizon.png" width="261" height="72"/></a> </div>
-            <div class="row col-md-6 pull-right text-right text-contact"><img src="../img/call.png"/><span class="title-phone">Ring til os:</span> <span class="number-phone"> 0111.999.5678 </span> </div> 
+            <div class="row col-md-6 pull-right text-right text-contact"><img src="../img/call.png"/><span class="title-phone">Ring til os:</span> <span class="number-phone"> 257 785 152 </span> </div> 
         </div>
       <!-- Static navbar -->
       </div>
